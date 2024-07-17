@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse Rua 👋 
+# Hi there, I'm Rua 👋 
 ## I'm a Computer Engineering student who is discovering the world of technology!!
 
 - 🌱 I’m currently learning everything 
