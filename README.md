@@ -1,8 +1,6 @@
-# Hi there, I'm Rua 🤍 
-## I'm a Computer Engineering student and I love learning new things.
-## Join me on my journey to discover the world of technology.
+# Hi there, I'm Rua
 
-🌸 2024 Goals: Learn more about machine learning, start using GitHub more !
+🌸 2024 Goals: Learn more about machine learning, ai, nlp and use GitHub more!
 
 ### Connect with me:
 &nbsp;&nbsp;
