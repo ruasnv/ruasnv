@@ -1,6 +1,6 @@
-# Hi there, I'm Rua
+# Hi, I'm Rua
 
-🌸 2024 Goals: Learn more about machine learning, ai, nlp and use GitHub more!
+🌸 2024 Goals: Use GitHub more!
 
 ### Connect with me:
 &nbsp;&nbsp;
