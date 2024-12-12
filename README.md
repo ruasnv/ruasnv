@@ -1,6 +1,6 @@
 # Hi, I'm Rua
 
-2024 Goals: Use GitHub more!
+2025 Goals: Use GitHub more!
 
 ### Connect with me:
 &nbsp;&nbsp;
