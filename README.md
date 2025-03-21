@@ -6,10 +6,8 @@ I am also huge supporter of the open-source world, I highly value the idea they 
 One of my goals is to become a strong open-source contributer, therefor I'm always looking for ways to contribute and understand more.
 
 
-### Feel free to connect me:
-Discussions on CS is highly valued and appreciated! 
-&nbsp;
-&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ruasnv)
-[![website](./img/github-cat.png)](https://ruasanver.github.io)
-<br />
+### Feel free to connect with me:
+Discussions on CS are highly valued and appreciated!  
+
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/ruasnv)
+[![GitHub](./img/github-cat.png)](https://ruasnv.github.io){:width="24px" height="24px"}
