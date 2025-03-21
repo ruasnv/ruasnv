@@ -8,7 +8,8 @@ One of my goals is to become a strong open-source contributer, therefor I'm alwa
 
 ### Feel free to connect me:
 Discussions on CS is highly valued and appreciated! 
-&nbsp;&nbsp;
+&nbsp;
+&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ruasnv)
-[![website](./img/github_cat)](https://ruasanver.github.io)
+[![website](./img/github-cat.png)](https://ruasanver.github.io)
 <br />
