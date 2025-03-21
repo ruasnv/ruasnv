@@ -10,6 +10,5 @@ One of my goals is to become a strong open-source contributer, therefor I'm alwa
 Discussions on CS is highly valued and appreciated! 
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ruasnv)
+[![website](./img/github_cat)](https://ruasanver.github.io)
 <br />
-[linkedin]: https://linkedin.com/in/ruasnv
-[Portfolio-under development]: ruasanver.github.io
