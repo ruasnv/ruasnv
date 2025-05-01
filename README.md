@@ -1,4 +1,4 @@
-Hi, I'm Rua 👋
+Hi, I'm Ruya 👋
 I'm a CS undergraduate on a journey to learn, build, and share.
 Check out my project "Notes" — a living archive of what I’ve learned so far in CS, from deep learning and algorithms to systems and search engines. It’s a mix of code, blog-style explanations, and Jupyter notebooks.
 Feedback and contributions are always welcome!
