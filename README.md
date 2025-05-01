@@ -1,9 +1,10 @@
-# Hi, I'm Rua! CS undergradute student who is on a journery to learn.
-To follow my learning journey you can check my GitHub projects called "Notes". These are documetation of what I learned through out my CS journery. You can find many topics like Deep Learning, AI, Data Science and Algorithms.
-My "Notes" are a combination of implementation, blog posts, explanation and jupiter notebooks. Feel free to take a look, any contribution/comment on how to improve them are always welcome! 
-Along side my Notes, you will also find my other projects here. They span a wide area of computing infrastructures, IR-search engines, Machine Learning and more.
-I am also huge supporter of the open-source world, I highly value the idea they stand for. 
-One of my goals is to become a strong open-source contributer, therefor I'm always looking for ways to contribute and understand more.
+Hi, I'm Rua 👋
+I'm a CS undergraduate on a journey to learn, build, and share.
+Check out my project "Notes" — a living archive of what I’ve learned so far in CS, from deep learning and algorithms to systems and search engines. It’s a mix of code, blog-style explanations, and Jupyter notebooks.
+Feedback and contributions are always welcome!
+
+Beyond Notes, you'll find other projects exploring computing infrastructure, AI, and more.
+I'm a big believer in open-source and always looking to grow as a contributor.
 
 
 ### Feel free to connect with me:
