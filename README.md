@@ -1,4 +1,4 @@
-# Hi, I'm Ruya an inspiring Computer Science & Machine Learning Researcher
+# Hi! I'm Ruya, an inspiring Computer Science & Machine Learning Researcher
 
 I’m an undergraduate computer science student interested in **theoretical foundations of computation** and their intersection with **machine learning**. My focus is on problems that require systems level thinking like modeling complexity, understanding the limits of current computational models, and exploring chaotic and probabilistic behaviors in neural networks.  
 
