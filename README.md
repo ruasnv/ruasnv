@@ -10,10 +10,11 @@ I enjoy building experiments with interesting hypotheses, open-source codes, and
 - Mathematics of Deep Learning  
 - Probabilistic and Symbolic Models  
 
-## Currently In Process Repositories
+## Currently Working on
+- *[Distributed HPC Infrastructures](#)* - can we build a remote cluster HPC server?
 - *[Chaos in Neural Nets](#)* — exploratory experiments on chaos and randomness in DL.  
-- *[Neural Automata](#)* — experiments training LSTMs and Transformers to learn grammars.  
-- *[FET ML Modeling](#)* — ML-based device modeling, GAN augmentation, and benchmarking.  
+- *[New age of Automata](#)* — experiments training LSTMs and Transformers to learn grammars.  
+- *[FET Modeling with DL](#)* — ML-based device modeling, GAN augmentation, and benchmarking.  
 
 ---
 
