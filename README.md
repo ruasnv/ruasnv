@@ -17,5 +17,5 @@ I enjoy building experiments with interesting hypotheses, open-source codes, and
 
 ---
 
-**Website (Under development):** [ruya.github.io](https://ruya.github.io)  
-**LinkedIn:** [linkedin.com/in/ruya](https://linkedin.com/in/ruasnv)
+**Website (Under development):** [ruasnv.github.io](https://ruasnv.github.io)  
+**LinkedIn:** [linkedin.com/in/ruasnv](https://linkedin.com/in/ruasnv)
