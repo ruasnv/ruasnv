@@ -7,14 +7,14 @@ I enjoy building experiments with interesting hypotheses, open-source codes, and
 ## Research Interests
 - Theory of Computing (Automata, Turing, Gödel, Incompleteness)  
 - Complex & Chaotic Systems in AI  
-- Mathematics of Deep Learning  
+- Mathematics and Proofs of Deep Learning  
 - Probabilistic and Symbolic Models  
 
 ## Currently Working on
-- *[Distributed HPC Infrastructures](#)* - can we build a remote cluster HPC server?
-- *[Chaos in Neural Nets](#)* — exploratory experiments on chaos and randomness in DL.  
-- *[New age of Automata](#)* — experiments training LSTMs and Transformers to learn grammars.  
-- *[FET Modeling with DL](#)* — ML-based device modeling, GAN augmentation, and benchmarking.  
+- *[Distributed HPC Infrastructures](https://github.com/ruasnv/Matcha)* - can we build a remote cluster HPC server?
+- *[Chaos in Neural Nets]* — exploratory experiments on chaos and randomness in DL.  
+- *[New age of Automata]* — experiments training LSTMs and Transformers to learn grammars.  
+- *[FET Modeling with DL](https://github.com/ruasnv/FetModeling)* — ML-based device modeling, GAN augmentation, and benchmarking. (Repo private for now)  
 
 ---
 
