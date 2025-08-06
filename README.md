@@ -1,14 +1,21 @@
-Hi, I'm Ruya 👋
-I'm a CS undergraduate on a journey to learn, build, and share.
-Check out my project "Notes" — a living archive of what I’ve learned so far in CS, from deep learning and algorithms to systems and search engines. It’s a mix of code, blog-style explanations, and Jupyter notebooks.
-Feedback and contributions are always welcome!
+# Hi, I'm Ruya an inspiring Computer Science & Machine Learning Researcher
 
-Beyond Notes, you'll find other projects exploring computing infrastructure, AI, and more.
-I'm a big believer in open-source and always looking to grow as a contributor.
+I’m an undergraduate computer science student interested in **theoretical foundations of computation** and their intersection with **machine learning**. My focus is on problems that require systems level thinking like modeling complexity, understanding the limits of current computational models, and exploring chaotic and probabilistic behaviors in neural networks.  
 
+I enjoy building experiments with interesting hypotheses, open-source codes, and well-documented analysis. This space is both my portfolio and my research log.  
 
-### Feel free to connect with me:
-Discussions on CS are highly valued and appreciated!  
+## Research Interests
+- Theory of Computing (Automata, Turing, Gödel, Incompleteness)  
+- Complex & Chaotic Systems in AI  
+- Mathematics of Deep Learning  
+- Probabilistic and Symbolic Models  
 
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/ruasnv)
-[![GitHub](./img/github-cat(1).png)](https://ruasnv.github.io)
+## Currently In Process Repositories
+- *[Chaos in Neural Nets](#)* — exploratory experiments on chaos and randomness in DL.  
+- *[Neural Automata](#)* — experiments training LSTMs and Transformers to learn grammars.  
+- *[FET ML Modeling](#)* — ML-based device modeling, GAN augmentation, and benchmarking.  
+
+---
+
+**Website (Under development):** [ruya.github.io](https://ruya.github.io)  
+**LinkedIn:** [linkedin.com/in/ruya](https://linkedin.com/in/ruasnv)
